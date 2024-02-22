@@ -5,4 +5,4 @@ set -e
 docker pull muhammadasad/sample-python-project
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 muhammadasad/sample-python-project:tagname
+docker run -d -p 5000:5000 1muhammadasad/sample-python-project
